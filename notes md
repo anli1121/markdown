@@ -1,0 +1,16 @@
+---
+markmap:
+  colorFreezeLevel: 2
+  maxWidth: 100
+---
+
+# Impairment
+- Carrying amount
+    - Cost model
+        - Cost less acc dep and impairment
+    - Revaluation model
+        - FV less acc dep and impairment
+
+- Recoverable amount
+    - FV- costs to sell
+    - Value in use
